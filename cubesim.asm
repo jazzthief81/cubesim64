@@ -1,7 +1,7 @@
 	processor 6502
 	org $0800
 
-DEBUG	EQU 1
+DEBUG	EQU 0
 
 	include "spritesymbols.asm"	
 	include "cubesymbols.asm"
